@@ -9,4 +9,4 @@ def get_prev_quarter(yyyy, mm, dd):
         quarter_date = f"""{yyyy}-09-30"""
     return (quarter_date)
     
-print(get_prev_quarter("2025","02","27"))
+print(get_prev_quarter("2025","03","31"))
